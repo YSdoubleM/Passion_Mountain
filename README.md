@@ -137,3 +137,5 @@ __수정__
 - Scikit-learn
 - Pandas
 - Konlpy
+
+![image](https://user-images.githubusercontent.com/57916633/147494940-867cbf53-3320-4a0c-aefc-46fc97ff73d6.png)
