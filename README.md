@@ -138,4 +138,5 @@ __수정__
 - Pandas
 - Konlpy
 
-![image](https://user-images.githubusercontent.com/57916633/147494940-867cbf53-3320-4a0c-aefc-46fc97ff73d6.png)
+![image](https://user-images.githubusercontent.com/57916633/147495075-d4e1c132-522c-45dc-aedf-81cd25d8530c.png)
+
