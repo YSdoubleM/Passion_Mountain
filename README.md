@@ -92,7 +92,10 @@
 
 ### 추천 서비스
 __수정__
-    
+
+<img src = https://user-images.githubusercontent.com/57916633/147496793-014c86a8-3b80-46d4-81ce-45b36587e7ea.png width = 250 height = 400>
+
+
     
 # 결론
 ### 한계점
