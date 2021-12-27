@@ -125,8 +125,8 @@ __수정__
 
 ### 개발환경 💻
 - Python >= 3.8 version
-- scikit-learn >= 0.24 version
-- konlpy == 0.5.2 version
+- Scikit-learn >= 0.24 version
+- Konlpy == 0.5.2 version
 
 
 ---
