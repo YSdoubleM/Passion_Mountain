@@ -132,11 +132,12 @@ __수정__
 ---
 
 ### 사용 기술 스택 🛠️
-- Git
 - Python
 - Scikit-learn
-- Pandas
 - Konlpy
+- Pandas
+- Numpy
+- Git
 
 <img src = https://user-images.githubusercontent.com/57916633/147495075-d4e1c132-522c-45dc-aedf-81cd25d8530c.png width="950" height="350"/>
 
