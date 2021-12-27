@@ -116,7 +116,9 @@ __수정__
 
 ### 참고
 [등산로 정보 데이터](https://www.forest.go.kr/kfsweb/kfi/kfs/trail/trailInformation.do?pblicDataId=PBD0000041&tabs=3&mn=NKFS_06_08_02&subTitle=%EB%93%B1%EC%82%B0%EB%A1%9C%EC%A0%95%EB%B3%B4)
+
 [명산 등산로 데이터](https://www.forest.go.kr/kfsweb/kfi/kfs/nwopapi/gdTrailInformation.do?pblicDataId=PBD0000021&tabs=3&mn=NKFS_06_08_02&subTitle=%EB%AA%85%EC%82%B0%EB%93%B1%EC%82%B0%EB%A1%9C)
+
 [산정보 데이터](https://www.forest.go.kr/kfsweb/kfi/kfs/nwopapi/gdTrailInformation.do?pblicDataId=PBD0000021&tabs=3&mn=NKFS_06_08_02&subTitle=%EB%AA%85%EC%82%B0%EB%93%B1%EC%82%B0%EB%A1%9C)
 
 ---
