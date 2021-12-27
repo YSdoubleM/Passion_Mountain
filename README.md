@@ -138,5 +138,5 @@ __수정__
 - Pandas
 - Konlpy
 
-<img src = https://user-images.githubusercontent.com/57916633/147495075-d4e1c132-522c-45dc-aedf-81cd25d8530c.png width="200" height="1200"/>
+<img src = https://user-images.githubusercontent.com/57916633/147495075-d4e1c132-522c-45dc-aedf-81cd25d8530c.png width="1200" height="200"/>
 
