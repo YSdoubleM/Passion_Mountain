@@ -91,7 +91,9 @@
 - 좋게 분류된 493개 중 랜덤 추출 후 정성적 평가
 
 ### 추천 서비스
-__수정__
+- 사용자 희망 지역 선택 후 좋은 산 top 5 추천
+    - Class 1로 예측할 proba 값 기준 높은 순으로 추천    
+
 
 <img src = https://user-images.githubusercontent.com/57916633/147496793-014c86a8-3b80-46d4-81ce-45b36587e7ea.png width = 250 height = 400>
 
