@@ -74,11 +74,14 @@
 - 파이프라인 구축 및 최적의 모델 도출
     - 파이프라인 GridSearchCV 거쳐 총 5가지 classifier 모델 중 선택
     - RandaomForestClassifier 선택
+    
+    <img width="523" alt="Screen Shot 2021-12-28 at 10 12 02 AM" src="https://user-images.githubusercontent.com/48639017/147517136-64a5a368-8ae5-4221-9e9f-75f5b68d881f.png">
 
 ### 모델 성능 평가
 - K-fold cross validation 하여 성능 평가
     - accuracy, precision, recall
     
+    ![score](https://user-images.githubusercontent.com/48639017/147516963-c8f51986-18d6-4890-b1b7-db25098642c8.png)
 
 # 모델 예측 결과
 ### 예측 결과
@@ -92,10 +95,9 @@
 
 ### 💡 추천 서비스
 - 사용자 희망 지역 선택 후 좋은 산 top 5 추천
-    - Class 1로 예측할 proba 값 기준 높은 순으로 추천    
+    - Class 1로 예측할 proba 값 기준 높은 순으로 추천
 
-
-<img src = https://user-images.githubusercontent.com/57916633/147496793-014c86a8-3b80-46d4-81ce-45b36587e7ea.png width = 250 height = 400>
+    <img src = https://user-images.githubusercontent.com/57916633/147496793-014c86a8-3b80-46d4-81ce-45b36587e7ea.png width = 250 height = 400>
 
 
     
